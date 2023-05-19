@@ -1,0 +1,22 @@
+{
+    
+    "manifest_version": 3,
+    "name": "Infostream 9000",
+    "version": "1.0",
+    "description": "An infinite stream of dogs, cats, Tesla news, and activities",
+
+    
+
+    "author": "Garrett Woo, Tom Nguyen",
+
+    
+
+    "chrome_url_overrides":{
+             "newtab":"index.html"
+         },
+
+
+    "permissions": ["tabs"]
+
+}
+
